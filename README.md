@@ -25,7 +25,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-node app.js
+npm install
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ node app.js
 After installing npm packages, the application will be invoked by using the following command:
 
 ```
-npm start
+node app.js
 ```
 
 #### Example Screenshot
