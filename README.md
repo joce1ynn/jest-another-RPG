@@ -25,7 +25,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-npm install
+node app.js
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ npm start
 
 #### Example Screenshot
 
-![Screenshot](./assets/images/ET-1.png)
+![Screenshot](./jest.png)
 
 ## Test Instructions
 
